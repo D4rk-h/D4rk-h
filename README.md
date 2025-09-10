@@ -25,7 +25,7 @@ Currently researching the intersection of quantum algorithms and machine learnin
 - Jackson
 - NumPy
 - Pandas
-- Matplotlib
+- Qiskit
 - Scikit-learn
 - ...
 
